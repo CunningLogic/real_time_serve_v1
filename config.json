@@ -1,0 +1,17 @@
+{
+  "env": "test",
+
+  "public_pem_path": "./cert/dji_com.crt",
+  "private_pem_path": "./cert/dji_com.key",
+
+  "server_port": 7777,
+
+  "websocket_port": 7776,
+  "websocket_auth_token": "dbeta_dUMMbuajxEAXcfEjQ46NqiUgQmQQQ",
+
+  "gateway": "gateway-stg-alihz.aasky.net:9000",
+  "gateway_app_id": "dji_ag",
+  "gateway_app_key": "31ee39e0-5641-4e15-9b11-fbbd24cbdfb2",
+
+  "database": "db_iuav:Ck7rJaA38YK8H@tcp(rm-bp14ptw0f4nfx64xyo.mysql.rds.aliyuncs.com:3306)/db_iuav"
+}
